@@ -71,3 +71,5 @@ Também dedico parte do tempo a **estudar e documentar livros técnicos** (algor
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+![snake gif](https://github.com/mayconct32/mayconct32/blob/output/github-snake-dark.svg)
