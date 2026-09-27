@@ -49,7 +49,6 @@ Também dedico parte do tempo a **estudar e documentar livros técnicos** (algor
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-2D2D2D?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### DevOps & Tools
 
