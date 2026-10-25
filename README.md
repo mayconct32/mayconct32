@@ -3,8 +3,8 @@
  **Backend Developer | Python & APIs REST**
  Minas Gerais, Brasil
 
-Eu construo **APIs REST escaláveis** com Python, trabalhando com autenticação, bancos de dados relacionais e não relacionais, cache e containerização.
-Também dedico parte do tempo a **estudar e documentar livros técnicos** (algoritmos e design de código) direto no GitHub, como forma de fixar o aprendizado na prática.
+Sou desenvolvedor Backend com foco em Python, interessado em construir aplicações e aprimorar continuamente minhas habilidades em desenvolvimento de software.
+Utilizo projetos práticos para explorar soluções, consolidar conhecimentos e aprofundar meus estudos sobre programação e engenharia de software.
 
 ---
 
@@ -18,19 +18,6 @@ Também dedico parte do tempo a **estudar e documentar livros técnicos** (algor
     <img src="https://img.shields.io/badge/Email-maycon326754%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## What I do
-
-- APIs REST com autenticação JWT e autorização por dono do recurso
-- Modelagem de dados com bancos relacionais (MySQL, PostgreSQL) e não relacionais (MongoDB, Redis)
-- Cache com Redis, WebSocket em tempo real e rate limiting para proteger endpoints
-- Containerização de aplicações com Docker / Docker Compose
-- Integração com serviços externos (Google Gemini, Correios) e migrations de banco com SQLAlchemy + Alembic
-- Pipelines de RAG com LangChain e bancos vetoriais aplicados a projetos de IA
-- Testes automatizados com pytest, Testcontainers (banco real em container) e factories de dados
-- Estudo e documentação de livros técnicos (algoritmos, design de código)
 
 ---
 
